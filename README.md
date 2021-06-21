@@ -8,7 +8,7 @@ Click the "Show stops between MIT and Harvard" button to view marker moving MIT 
 
 #### Future Improvements
 
-In future, adding more routes by getting the input from user and creating different background views like street view, satellite view, dark mode view and light mode view.
+This Project can be further enhanced by adding more routes by getting the input from user and creating different background views like street view, satellite view, dark mode view and light mode view.
 
 #### License Information
 
